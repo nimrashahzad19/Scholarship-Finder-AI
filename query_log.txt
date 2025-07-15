@@ -1,0 +1,5 @@
+[2025-07-15 14:54:50] Keywords: ['women', 'stem', 'tech'] | Country: usa | Max Tuition: 30000 | Output: usa_stem
+[2025-07-15 15:05:14] Keywords: ['computer science', 'fully funded'] | Country: germany | Max Tuition:  | Output: cs_germany
+[2025-07-15 15:32:22] Keywords: ['computer science', 'fully funded'] | Country: germany | Max Tuition:  | Output: cs_germany
+[2025-07-15 15:39:11] Keywords: ['computer science', 'fully funded'] | Country: germany | Max Tuition:  | Output: cs_germany
+[2025-07-15 15:41:54] Keywords: ['computer science', 'fully funded'] | Country: germany | Max Tuition:  | Output: cs_germany
